@@ -1,17 +1,8 @@
-# animation_0528_3
+# Flutter 动画教程 1–4 内置的还不够？万能的补间动画
 
-A new Flutter project.
+課程：https://www.bilibili.com/video/BV1Q54y1X72E/
 
-## Getting Started
+## 課程內容
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter_TweenAnimationBuilder
+### TweenAnimationBuilder
+### Transform
